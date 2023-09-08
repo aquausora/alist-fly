@@ -1,4 +1,4 @@
-name: hexo deploy
+name: fly deploy
 on: 
   workflow_dispatch:
 
